@@ -1,0 +1,5 @@
+{
+  "name": "数字革吉-羊只数字化管理系统",
+  "description": "革吉县白绒山羊扩繁场数字化全生命周期现场管理系统",
+  "requestFramePermissions": ["camera"]
+}
